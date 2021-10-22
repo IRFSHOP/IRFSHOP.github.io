@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+}
+body{
+    background-image: url(../images/9.png);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color:navy;
+    font-size: 30px;
+}
+header{
+    background-color: blue;
+    height: 125px;
+    width: 100%;
+    border-radius: 25px;
+
+}
+#HMBTN{
+    float: right;
+    margin-right: 10px;
+}
+img{
+    width: 400px;
+    margin: 50px 400px;
+}
