@@ -5,7 +5,9 @@
     border: 0;
 }
 body{
-    background-image: url(../images/7.png);
+    background-image: url(../images/13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 nav{
     float: right;
