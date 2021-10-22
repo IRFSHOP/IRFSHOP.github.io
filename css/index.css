@@ -5,7 +5,7 @@
     border: 0;
 }
 body{
-    background-image: url(../images/4.png);
+    background-image: url(../images/7.png);
 }
 nav{
     float: right;
@@ -53,16 +53,19 @@ p{
 #TOZIH{
     width: 100%;
     height:150px; 
-    border: #4F6964 4px solid;
+    border: #408678 4px solid;
 }
 h1{
     text-align: center;
+    color: crimson;
 }
 
 #SLM{
     font-size: 20px;
     text-align: center;
+    color: aqua;
 }
 #PLS{
     text-align: center;
+    color: aqua;
 }
